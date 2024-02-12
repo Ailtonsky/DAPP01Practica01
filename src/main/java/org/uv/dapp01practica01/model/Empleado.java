@@ -8,7 +8,8 @@ package org.uv.dapp01practica01.model;
  *
  * @author Usuario
  */
-class Empleado {
+public class Empleado {
+
     private int id;
     private String nombre;
     private String direccion;
